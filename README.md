@@ -32,3 +32,18 @@ Then, we use a Discriminator model, such as BERT and ViLT, to rate the input ima
   <br>
   <span style="display: block; text-align: center;">Figure 2: VLISA.</span>
 </p>
+
+# Citation
+
+If you find our work useful, please cite our paper:
+```
+@article{song2024imagegoodstoryteller,
+      title={Is Your Image a Good Storyteller?}, 
+      author={Xiujie Song and Xiaoyi Pang and Haifeng Tang and Mengyue Wu and Kenny Q. Zhu},
+      year={2024},
+      eprint={2501.01982},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.01982}, 
+}
+```
