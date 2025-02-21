@@ -21,6 +21,13 @@ They correspond to the Entity Complexity Scoring task and the Semantic Complexit
 
 To get access to the data, you must sign a [Data Use Agreement (DUA)](https://docs.google.com/document/d/1F6qi0MlZFlWQCEH3pR1zXq5ZfWnHfTOV/edit?usp=sharing&ouid=111415446863054830984&rtpof=true&sd=true). Please read the DUA carefully, and send an email to xiujiesong@sjtu.edu.cn with the message: "I consent to the Data Usage Agreement of the ISA dataset." and attach the DUA including your handwritten signature in it.
 
+You can use the following code to load the dataset.
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("path/to/dataset/dir")
+```
+
 # VLISA
 
 VLISA has two components: a Feature Extractor and a Discriminator.
