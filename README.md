@@ -44,13 +44,16 @@ Then, we use a Discriminator model, such as BERT and ViLT, to rate the input ima
 
 If you find our work useful, please cite our paper:
 ```
-@article{song2024imagegoodstoryteller,
-      title={Is Your Image a Good Storyteller?}, 
-      author={Xiujie Song and Xiaoyi Pang and Haifeng Tang and Mengyue Wu and Kenny Q. Zhu},
-      year={2024},
-      eprint={2501.01982},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.01982}, 
+@article{Song_Pang_Tang_Wu_Zhu_2025,
+  title={Is Your Image a Good Storyteller?},
+  volume={39},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/34702},
+  DOI={10.1609/aaai.v39i24.34702},
+  number={24},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Song, Xiujie and Pang, Xiaoyi and Tang, Haifeng and Wu, Mengyue and Zhu, Kenny Q.},
+  year={2025},
+  month={Apr.},
+  pages={25165-25173}
 }
 ```
