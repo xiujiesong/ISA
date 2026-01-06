@@ -1,4 +1,4 @@
-# Is Your Image a Good Storyteller?
+# [AAAI 2025] Is Your Image a Good Storyteller?
 
 
 # Abstract
